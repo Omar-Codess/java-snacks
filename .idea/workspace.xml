@@ -4,9 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="0e565ddc-7482-4f66-9b0f-0424dd739bc9" name="Changes" comment="Snack 2">
-      <change afterPath="$PROJECT_DIR$/src/Snack3.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    <list default="true" id="0e565ddc-7482-4f66-9b0f-0424dd739bc9" name="Changes" comment="Snack 3">
+      <change beforePath="$PROJECT_DIR$/src/Snack1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Snack1.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -54,11 +53,19 @@
       <option name="project" value="LOCAL" />
       <updated>1678369603758</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="Snack 3">
+      <created>1678370788675</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1678370788675</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Snack 2" />
-    <option name="LAST_COMMIT_MESSAGE" value="Snack 2" />
+    <MESSAGE value="Snack 3" />
+    <option name="LAST_COMMIT_MESSAGE" value="Snack 3" />
   </component>
 </project>

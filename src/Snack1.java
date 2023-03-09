@@ -15,5 +15,6 @@ public class Snack1 {
             userNum += 1;
             System.out.print(userNum);
         }
+        scan.close();
     }
 }
